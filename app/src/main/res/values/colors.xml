@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d70a0a</color>
+    <color name="colorPrimaryDark">#d70a0a</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="textColor">#7a7a7a</color>
+    <color name="tab_indicator">#03A9F4</color>
+    <color name="colorHint">#546E7A</color>
+
+
+
+    <color name="colorRed">#FF0000</color>
+    <color name="colorXanhNhat">#33FFCC</color>
+    <color name="colorXanhLa">#00FF66</color>
+    <color name="colorDonhat">#FF3333</color>
+    <color name="colorHong">#FFCCFF</color>
+</resources>
